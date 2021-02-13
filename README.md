@@ -1,4 +1,3 @@
-# Case Study Proposal 
 # Apple's Apple Pay
 
 ---
