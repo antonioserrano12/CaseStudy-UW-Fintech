@@ -10,8 +10,8 @@ Description content: Content for the description
 
 ---
 Contributors:
-1. *Name 1*
-2. *Name 2*
+1. *Sumitha Prabhu*
+2. *John Kelly*
 3. *Antonio Serrano*
 
 ---
