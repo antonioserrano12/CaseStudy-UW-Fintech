@@ -1,5 +1,5 @@
-#Case Study Proposal 
-#Apple's Apple Pay
+# Case Study Proposal 
+# Apple's Apple Pay
 
 ---
 
