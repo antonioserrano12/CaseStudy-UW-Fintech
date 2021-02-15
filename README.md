@@ -7,6 +7,7 @@ gi# Apple's Apple Pay
 ---
 ## What is it
 Apple pay is arguably the leading mobile payment and digital wallet service. It allows users to make payments in person, in iOS apps, and on the web. It is supported on the iPhone, Apple Watch, iPad, and Mac. **Apple Pay**
+trial
 
 ---
 Contributors:
