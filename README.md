@@ -1,7 +1,7 @@
 # Unit 1 Homework Assignment: FinTech Case Study
 
 
-```
+
 # TITLE
 
 <<<<<<< HEAD
@@ -43,7 +43,6 @@ What solution does this company offer that their competitors do not or cannot of
 * What are the other major companies in this domain? Stash, Gusto
 
 
-```
 
 ## Addendum
 https://techcrunch.com/2014/08/26/acorns-is-a-micro-investment-app-that-does-all-the-thinking-for-you/
