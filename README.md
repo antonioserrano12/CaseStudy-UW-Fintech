@@ -4,7 +4,7 @@
 ```
 # TITLE
 
-<<<<<<< HEAD
+
 ## Overview and Origin
 =======
 ---
